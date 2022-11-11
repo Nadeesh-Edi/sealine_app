@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049122086555",
+    "project_id": "sealine-app",
+    "storage_bucket": "sealine-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049122086555:android:e232c49d3598826d23303e",
+        "android_client_info": {
+          "package_name": "com.example.sealine_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049122086555-pmtj47vrhcbg6r61rhdo2lvs9arb8vfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JWBPMxSTDmk5rI3zvZFbvQ45O371D7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049122086555-pmtj47vrhcbg6r61rhdo2lvs9arb8vfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
